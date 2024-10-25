@@ -1,0 +1,1 @@
+Note: In a real application, you would need to add actual product and service images in the public/images directory. For now, the image paths are placeholders.
